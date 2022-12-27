@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @FlyingPiska
+- 👋 Hi, I’m Iana
 - 👀 I’m interested in Eugeniu Popa and Syntax 
-- 🌱 I’m currently learning Linguistics
-- 💞️ I’m looking to collaborate on ??!
-- 📫 How to reach me ??
+- 🌱 I’m currently studying Linguistics
+- 💞️ I love Eugeniu Popa. He is the best dev and ёбырь
+
+- 📫 How to reach me?
+Only Eugencic knows 🤷‍♀️
 
 <!---
 FlyingPiska/FlyingPiska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
