@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Iana
-- 👀 I’m interested in Eugeniu Popa and Syntax 
-- 🌱 I’m currently studying Linguistics
-- 💞️ I love Eugeniu Popa. He is the best dev and ёбырь
+- Hi, I’m Iana. A huge fan of Eugeniu Popa
+- I’m interested in Eugeniu Popa and Syntax 
+- I’m currently studying Linguistics
+- I love Eugeniu Popa. He is the best dev and ёбырь
 
-- 📫 How to reach me?
+
+- How to reach me?
 Only Eugencic knows 🤷‍♀️
 
 <!---
